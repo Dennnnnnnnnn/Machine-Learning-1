@@ -1,6 +1,6 @@
 # Machine Learning Algorithms — Coursework Repository
 
-This repository contains implementation code, analysis, and evaluations for two laboratory assignments completed as part of the **Machine Learning Algorithms (P176B104)** course.
+This repository contains implementation code, analysis, and evaluations for two laboratory assignments completed as part of the **Machine Learning Algorithms 1** course.
 
 ---
 
