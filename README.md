@@ -1,4 +1,4 @@
-# Machine Learning Algorithms — Coursework Repository
+# Machine Learning Algorithms - Coursework Repository
 
 This repository contains implementation code, data analysis, and model evaluations for laboratory assignments completed as part of the **Machine Learning Algorithms (P176B104)** course at **Kaunas University of Technology (KTU)**.
 
